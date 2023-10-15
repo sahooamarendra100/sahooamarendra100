@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amarendra Sahoo
-- 👀 I’m interested in Software developing.
-- 🌱 I’m currently working in DIGIBOXX TECHNOLOGIES AND DIGITAL INDIA PRIVATE LIMITED.
+- 👀 I’m interested in Software development.
+- 🌱 I’m currently working in Tata Consultancy Services LTD.
 - 📫 You can reach out to me with my number(7008335274,9438331815) and email(sahooamarendra100@gmail.com).
 
 <!---
